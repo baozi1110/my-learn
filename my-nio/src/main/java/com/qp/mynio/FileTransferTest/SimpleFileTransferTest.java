@@ -38,7 +38,9 @@ public class SimpleFileTransferTest {
         FileChannel readChannel = read.getChannel();
         FileChannel writeChannel = write.getChannel();
 
-
+        // NIO就是通过Channel管道运输着存储数据的Buffer缓冲区的来实现数据的处理
+        // Channel不与数据打交道，它只负责运输数据。与数据打交道的是Buffer缓冲区
+        // Channel是双向的
         ByteBuffer byteBuffer = ByteBuffer.allocate(1024 * 1024);//1M缓冲区
 
         while (readChannel.read(byteBuffer) > 0) {
