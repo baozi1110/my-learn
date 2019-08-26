@@ -30,9 +30,6 @@ public class RegularExpressionMatching {
         }
     }
 
-    public static void main(String[] args) {
-        System.out.println(isMatch2("adv", "a*qw"));
-    }
 
     /**
      * 使用动态规划
@@ -55,7 +52,7 @@ public class RegularExpressionMatching {
      *  (2).如果s(x) != p(y - 1) && p(y - 1) != '.'
      *      那么不使用*号前面那个字符，向前数两个 f(x, y) = f(x, y - 2)，也就是跳过*和前面那个不匹配的字符
      */
-    static boolean isMatch2(String s, String p) {
+     boolean isMatch2(String s, String p) {
         if (s == null || p == null) {
             return false;
         }
