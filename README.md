@@ -16,3 +16,7 @@
 
 ## my-effective-java
 **看effective-java时的用例**
+
+## my-java-basis
+**基本java代码的API使用**
+- lambda与函数式接口

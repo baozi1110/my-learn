@@ -1,9 +1,9 @@
-package com.qp.effectivejava.CreatingAndDestroyingObjects;
+package com.qp.effectivejava.chapter2.item2;
 import lombok.ToString;
 
-import	java.security.KeyStore.Builder;
-
 /**
+ * 建造者模式就是在实体类中创建一个静态Builder对象，Builder中有与实体类相同的字段，
+ * 将值通过Builder的set方法传递给实体类，最后调用一个无参的build方法来生成对象
  * Builder Pattern
  * @author BaoZi
  * @date 2019/9/11 9:39
