@@ -10,3 +10,9 @@
 
 ## my-websocket
 **学习websocket的demo**
+
+## my-thread
+**线程**
+
+## my-effective-java
+**看effective-java时的用例**
