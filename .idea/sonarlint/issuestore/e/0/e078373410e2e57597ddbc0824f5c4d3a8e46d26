@@ -1,0 +1,48 @@
+
+g
+java:S2259^"EA "NullPointerException" could be thrown; "cityUrl" is nullable here.(Ë¯Áúûÿÿÿÿ8”ğ½ë .
+f
+java:S2095ï"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ãí¦¡8”ğ½ë .
+N
+java:S1444",Make this "public static result" field final(€ªãşÿÿÿÿ8”ğ½ë .
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(Ş®Š€úÿÿÿÿ8Ö¾Àë .
+s	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ì–´ÿÿÿÿÿ8”ğ½ë .
+}
+java:S1149Ø"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Áúƒ8”ğ½ë .
+V	java:S106á"9Replace this use of System.out or System.err by a logger.(ÌÃÒë8Ö¾Àë .
+F
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8”ğ½ë .
+X
+java:S1854œ":Remove this useless assignment to local variable "myPrix".(ÿî×Õ8Ö¾Àë .
+s	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®™şÿÿÿÿ8”ğ½ë .
+o
+java:S2095Ö"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(—Ëˆùıÿÿÿÿ8”ğ½ë .
+l
+java:S2095ò"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(İÓŒi8”ğ½ë .
+l
+java:S2095Ö"IUse try-with-resources or close this "InputStream" in a "finally" clause.(—Ëˆùıÿÿÿÿ8”ğ½ë .
+t
+java:S1104"RMake result a static final constant or non-public and provide accessors if needed.(€ªãşÿÿÿÿ8”ğ½ë .
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(«‹Îõ8Ö¾Àë .
+T	java:S1062"9Replace this use of System.out or System.err by a logger.(¤İÆ^8Ö¾Àë .
+E
+java:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8”ğ½ë .
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(€ªãşÿÿÿÿ8”ğ½ë .
+c	java:S112Ó"FDefine and throw a dedicated exception instead of using a generic one.(•î´µ8”ğ½ë .
+I
+java:S1481œ"+Remove this unused "myPrix" local variable.(ÿî×Õ8Ö¾Àë .
+Y
+java:S1854¥";Remove this useless assignment to local variable "cityUrl".(ë‹µä8Ö¾Àë .
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­Š—ª8Ö¾Àë .
+s	java:S117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ùøÆşÿÿÿÿ8”ğ½ë .
+h
+java:S3027œ"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(ÿî×Õ8Ö¾Àë .
+h
+java:S3027^"FPut single-quotes around '/' to use the faster "indexOf(char)" method.(Ë¯Áúûÿÿÿÿ8Ö¾Àë .
+F
+java:S1148ş"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8”ğ½ë .
+J
+java:S1481 ",Remove this unused "cityUrl" local variable.(‹„ÜÔ8Ö¾Àë .
+E
+java:S11489"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8”ğ½ë .

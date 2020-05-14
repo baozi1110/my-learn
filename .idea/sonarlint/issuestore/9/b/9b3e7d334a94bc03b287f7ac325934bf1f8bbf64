@@ -1,0 +1,15 @@
+
+Gsquid:S1659"$Declare "prefix" on a separate line.(¹ª×Ûüÿÿÿÿ8–ˆòÓ-
+xsquid:S00122""TAt most one statement is allowed per line, but 2 statements were found on this line.(öŸë‡ÿÿÿÿÿ8Âî¹òÓ-
+8squid:S00121"Missing curly brace.(›î¦¿şÿÿÿÿ8Âî¹òÓ-
+Hsquid:S2157"%Add a "clone()" method to this class.(Í–ÃÓıÿÿÿÿ8ì”…Ô-
+3squid:S00121#"Missing curly brace.(ƒ×ı8Âî¹òÓ-
+8squid:S00121""Missing curly brace.(öŸë‡ÿÿÿÿÿ8Âî¹òÓ-
+ssquid:S00122#"TAt most one statement is allowed per line, but 2 statements were found on this line.(ƒ×ı8Âî¹òÓ-
+8squid:S00121"Missing curly brace.(×æ©Êùÿÿÿÿ8Âî¹òÓ-
+[squid:S1213("8Move this variable to comply with Java Code Conventions.(®£‹™ùÿÿÿÿ8¡ÁòÓ-
+Hsquid:S1659"%Declare "lineNum" on a separate line.(¹ª×Ûüÿÿÿÿ8–ˆòÓ-
+xsquid:S00122"TAt most one statement is allowed per line, but 2 statements were found on this line.(›î¦¿şÿÿÿÿ8Âî¹òÓ-
+xsquid:S00122"TAt most one statement is allowed per line, but 2 statements were found on this line.(×æ©Êùÿÿÿÿ8Âî¹òÓ-
+3squid:S00121"Missing curly brace.(»¸å¯8¤ÓŠòÓ-
+hsquid:TrailingCommentCheck("6Move this trailing comment on the previous empty line.(®£‹™ùÿÿÿÿ8¡ÁòÓ-

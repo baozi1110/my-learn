@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="my-springcode" />
+        <module name="my-websocket" />
+        <module name="my-learn" />
+        <module name="my-mqtt" />
+        <module name="my-thread" />
+        <module name="my-effective-java" />
+        <module name="springdata-jpa" />
+        <module name="mybatis-plus" />
+        <module name="my-mybatis" />
+        <module name="my-nio" />
+        <module name="my-leetcode" />
+        <module name="reptile" />
+        <module name="my-java-basis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="my-effective-java" target="1.8" />
+      <module name="my-java-basis" target="1.8" />
+      <module name="my-learn" target="1.8" />
+      <module name="my-leetcode" target="1.8" />
+      <module name="my-mqtt" target="1.8" />
+      <module name="my-mybatis" target="1.8" />
+      <module name="my-nio" target="1.8" />
+      <module name="my-springcode" target="1.8" />
+      <module name="my-thread" target="1.8" />
+      <module name="my-websocket" target="1.8" />
+      <module name="mybatis-plus" target="1.8" />
+      <module name="reptile" target="1.8" />
+      <module name="springdata-jpa" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="my-effective-java" options="-parameters" />
+      <module name="my-java-basis" options="-parameters" />
+      <module name="my-learn" options="-parameters" />
+      <module name="my-leetcode" options="-parameters" />
+      <module name="my-mqtt" options="-parameters" />
+      <module name="my-mybatis" options="-parameters" />
+      <module name="my-nio" options="-parameters" />
+      <module name="my-springcode" options="-parameters" />
+      <module name="my-thread" options="-parameters" />
+      <module name="my-websocket" options="-parameters" />
+      <module name="mybatis-plus" options="-parameters" />
+      <module name="reptile" options="-parameters" />
+      <module name="springdata-jpa" options="-parameters" />
+    </option>
+  </component>
+</project>

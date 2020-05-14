@@ -1,0 +1,6 @@
+
+Ksquid:S1125"(Remove the literal "true" boolean value.(бЫйЅшяяяя8“‰вРС-
+Fsquid:S1148"#Use a logger to log this exception.(ЂЙФ…эяяяя8“‰вРС-
+Zsquid:S2589"7Remove this expression which always evaluates to "true"(бЫйЅшяяяя8“‰вРС-
+7squid:S2096"Remove this throws clause.(є™Ъ78“‰вРС-
+Ksquid:S2325"(Make "throwInterrupt" a "static" method.(…НОдяяяяя8“‰вРС-

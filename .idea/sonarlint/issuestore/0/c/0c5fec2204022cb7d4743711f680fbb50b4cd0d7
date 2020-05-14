@@ -1,0 +1,15 @@
+
+vsquid:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ù’î«ÿÿÿÿÿ8¦È¥äË-
+>squid:S1659ß"Declare "R" on a separate line.(”ûãô8’‹²·Ì-
+usquid:S3776a"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‚Õùúûÿÿÿÿ8¦È¥äË-
+Esquid:S1659³"!Declare "end" on a separate line.(Û‚ÌÎøÿÿÿÿ8¦È¥äË-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8ÎÑØ½Ê-
+usquid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ùäÿÿÿÿÿ8Ì•¸äË-
+Usquid:S2589p"7Remove this expression which always evaluates to "true"(ı¿Ê´8¦È¥äË-
+qsquid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úßÇ8“¨¸·Ì-
+vsquid:S00117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¤Şøÿÿÿÿ8éª­·Ì-
+vsquid:S00117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­£ÂÛÿÿÿÿÿ8¸ê«·Ì-
+qsquid:S00117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ûãô8ĞÊ±·Ì-
+usquid:S00117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ²ğ¨øÿÿÿÿ8±ıùëË-
+qsquid:S00117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ûãô8’‹²·Ì-
+@squid:S1643‹"Use a StringBuilder instead.(À±˜îûÿÿÿÿ8â§¢·Ì-

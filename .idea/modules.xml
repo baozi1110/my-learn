@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/my-effective-java/my-effective-java.iml" filepath="$PROJECT_DIR$/my-effective-java/my-effective-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-java-basis/my-java-basis.iml" filepath="$PROJECT_DIR$/my-java-basis/my-java-basis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-learn.iml" filepath="$PROJECT_DIR$/my-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-leetcode/my-leetcode.iml" filepath="$PROJECT_DIR$/my-leetcode/my-leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-mqtt/my-mqtt.iml" filepath="$PROJECT_DIR$/my-mqtt/my-mqtt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-mybatis/my-mybatis.iml" filepath="$PROJECT_DIR$/my-mybatis/my-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-nio/my-nio.iml" filepath="$PROJECT_DIR$/my-nio/my-nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-springcode/my-springcode.iml" filepath="$PROJECT_DIR$/my-springcode/my-springcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-thread/my-thread.iml" filepath="$PROJECT_DIR$/my-thread/my-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-websocket/my-websocket.iml" filepath="$PROJECT_DIR$/my-websocket/my-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus/mybatis-plus.iml" filepath="$PROJECT_DIR$/mybatis-plus/mybatis-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reptile/reptile.iml" filepath="$PROJECT_DIR$/reptile/reptile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springdata-jpa/springdata-jpa.iml" filepath="$PROJECT_DIR$/springdata-jpa/springdata-jpa.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+
+Ksquid:S1066W"/Merge this if statement with the enclosing one.(§ýíÍüÿÿÿÿ
+esquid:S2095l"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(„õ½‰
+1squid:S1220""Move this file to a named package.
+<squid:S1166G"%Either log or rethrow this exception.(ï­£Ä
+<squid:S1166N"%Either log or rethrow this exception.(ï­£Ä
+Asquid:S1166a"%Either log or rethrow this exception.(‡˜ÚÚøÿÿÿÿ
+csquid:S00112h"FDefine and throw a dedicated exception instead of using a generic one.(Šð®…úÿÿÿÿ
+?squid:S1148c"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Tsquid:S11977"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
+Fsquid:S2093B"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Asquid:S1181a"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ

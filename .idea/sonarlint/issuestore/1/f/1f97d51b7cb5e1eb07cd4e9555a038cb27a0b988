@@ -1,0 +1,5 @@
+
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¡ïÙĞÑ-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¡ïÙĞÑ-
+Ksquid:S2325"(Make "throwInterrupt" a "static" method.(¾®”ùÿÿÿÿ8¡ïÙĞÑ-
+7squid:S2096"Remove this throws clause.(º™Ú78¡ïÙĞÑ-

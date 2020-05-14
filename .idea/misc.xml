@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/my-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/my-nio/pom.xml" />
+        <option value="$PROJECT_DIR$/my-springcode/pom.xml" />
+        <option value="$PROJECT_DIR$/my-leetcode/pom.xml" />
+        <option value="$PROJECT_DIR$/my-thread/pom.xml" />
+        <option value="$PROJECT_DIR$/my-effective-java/pom.xml" />
+        <option value="$PROJECT_DIR$/my-java-basis/pom.xml" />
+        <option value="$PROJECT_DIR$/my-mqtt/pom.xml" />
+        <option value="$PROJECT_DIR$/my-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-plus/pom.xml" />
+        <option value="$PROJECT_DIR$/springdata-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/reptile/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

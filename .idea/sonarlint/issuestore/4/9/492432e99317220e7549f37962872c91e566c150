@@ -1,0 +1,12 @@
+
+Osquid:S1213"8Move this variable to comply with Java Code Conventions.(£í”…
+7squid:S2325h" Make "expand" a "static" method.(ì¶Ø¿
+isquid:S001171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‡ƒŸ
+Jsquid:S2039".Explicitly declare the visibility for "phone".(ò£÷™şÿÿÿÿ
+Fsquid:S2039"/Explicitly declare the visibility for "output".(£í”…
+Hsquid:S3599",Use another way to initialize this instance.(ò£÷™şÿÿÿÿ
+c#squid:RightCurlyBraceStartLineCheck"/Move this closing curly brace to the next line.(ò™à¯şÿÿÿÿ
+usquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ò£÷™şÿÿÿÿ
+-squid:RightCurlyBraceSameLineAsNextBlockCheck8"HMove this "else" on the same line that the previous closing curly brace.(á¢–¬
+usquid:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(İ‘Ò¶üÿÿÿÿ
+usquid:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïïàÌùÿÿÿÿ

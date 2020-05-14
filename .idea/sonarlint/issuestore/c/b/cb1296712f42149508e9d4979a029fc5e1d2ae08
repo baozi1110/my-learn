@@ -1,0 +1,12 @@
+
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ã©´ßûÿÿÿÿ8à¥¨”Ÿ.
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(™ÁæÅüÿÿÿÿ8à¥¨”Ÿ.
+„
+java:S1845"gRename field "topic125" to prevent any misunderstanding/clash with field "TOPIC125" defined on line 21.(·şÓ8à¥¨”Ÿ.
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(³¼ôşÿÿÿÿ8à¥¨”Ÿ.
+É
+java:S11309"«Remove the declaration of thrown exception 'org.eclipse.paho.client.mqttv3.MqttPersistenceException' which is a subclass of 'org.eclipse.paho.client.mqttv3.MqttException'.(»†ñ¢8ìŞ’˜Ÿ.
+E
+java:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8à¥¨”Ÿ.
+ƒ
+java:S1845"aRename field "topic" to prevent any misunderstanding/clash with field "TOPIC" defined on line 20.(Î¿†Îÿÿÿÿÿ8à¥¨”Ÿ.
