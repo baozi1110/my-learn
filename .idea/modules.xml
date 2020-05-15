@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/my-effective-java/my-effective-java.iml" filepath="$PROJECT_DIR$/my-effective-java/my-effective-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-hutool/my-hutool.iml" filepath="$PROJECT_DIR$/my-hutool/my-hutool.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-java-basis/my-java-basis.iml" filepath="$PROJECT_DIR$/my-java-basis/my-java-basis.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-learn.iml" filepath="$PROJECT_DIR$/my-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-leetcode/my-leetcode.iml" filepath="$PROJECT_DIR$/my-leetcode/my-leetcode.iml" />

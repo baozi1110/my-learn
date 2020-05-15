@@ -1,0 +1,48 @@
+
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(Â–‘ö8ŠÍÜˆ¡.
+S
+java:S1854ß"5Remove this useless assignment to local variable "i".(Ì‚ˆÌ8ŠÍÜˆ¡.
+F
+java:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŠÍÜˆ¡.
+c
+java:S2259‹"@A "NullPointerException" could be thrown; "fw" is nullable here.(’™à€üÿÿÿÿ8ŠÍÜˆ¡.
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(†»¿şÿÿÿÿ8ŠÍÜˆ¡.
+[	java:S106ó"9Replace this use of System.out or System.err by a logger.(ˆ¶ñúùÿÿÿÿ8ŠÍÜˆ¡.
+F
+java:S1148ï"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŠÍÜˆ¡.
+F
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŠÍÜˆ¡.
+V	java:S106Š"9Replace this use of System.out or System.err by a logger.(Â–‘ö8ŠÍÜˆ¡.
+M
+java:S1068"+Remove this unused "WEB_URL" private field.(ÿ è•üÿÿÿÿ8Ãé¶ˆ¡.
+
+java:S30089"]Rename this field "CREAT_PROVINCE_SQL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÍ œøÿÿÿÿ8Ãé¶ˆ¡.
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(£Ñàİüÿÿÿÿ8ŠÍÜˆ¡.
+|
+java:S2293Ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8ŠÍÜˆ¡.
+U	java:S106v"9Replace this use of System.out or System.err by a logger.(¡Îâ8ŠÍÜˆ¡.
+T
+java:S1068:"2Remove this unused "CREAT_CITY_SQL" private field.(İİ©şÿÿÿÿ8Ãé¶ˆ¡.
+z
+java:S1488Í"\Immediately return this expression instead of assigning it to the temporary variable "in2b".(ö®Õ˜8ŠÍÜˆ¡.
+v
+java:S3008;"YRename this field "CREAT_AREA_SQL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªóôÀ8Û¶ˆ¡.
+E
+java:S1148l"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŠÍÜˆ¡.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(…¥Ûå8ŠÍÜˆ¡.
+F
+java:S1148¸"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŠÍÜˆ¡.
+X
+java:S10689"6Remove this unused "CREAT_PROVINCE_SQL" private field.(ÓÍ œøÿÿÿÿ8Ãé¶ˆ¡.
+{
+java:S3008:"YRename this field "CREAT_CITY_SQL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İİ©şÿÿÿÿ8Ãé¶ˆ¡.
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(„“³üÿÿÿÿ8ŠÍÜˆ¡.
+[	java:S106É"9Replace this use of System.out or System.err by a logger.(Á¬Í®ıÿÿÿÿ8ŠÍÜˆ¡.
+M
+java:S2093ƒ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ŠÍÜˆ¡.
+O
+java:S1068;"2Remove this unused "CREAT_AREA_SQL" private field.(ªóôÀ8Û¶ˆ¡.
+U	java:S106j"9Replace this use of System.out or System.err by a logger.(Â–‘ö8ŠÍÜˆ¡.
+V	java:S106¹"9Replace this use of System.out or System.err by a logger.(…‚­¡8ŠÍÜˆ¡.
+F
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŠÍÜˆ¡.

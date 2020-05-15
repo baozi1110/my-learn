@@ -7,23 +7,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="my-springcode" />
-        <module name="my-websocket" />
         <module name="my-learn" />
-        <module name="my-mqtt" />
+        <module name="my-hutool" />
+        <module name="my-websocket" />
+        <module name="my-java-basis" />
+        <module name="mybatis-plus" />
+        <module name="my-mybatis" />
         <module name="my-thread" />
         <module name="my-effective-java" />
         <module name="springdata-jpa" />
-        <module name="mybatis-plus" />
-        <module name="my-mybatis" />
+        <module name="my-springcode" />
         <module name="my-nio" />
         <module name="my-leetcode" />
+        <module name="my-mqtt" />
         <module name="reptile" />
-        <module name="my-java-basis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="my-effective-java" target="1.8" />
+      <module name="my-hutool" target="1.8" />
       <module name="my-java-basis" target="1.8" />
       <module name="my-learn" target="1.8" />
       <module name="my-leetcode" target="1.8" />
@@ -41,6 +43,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="my-effective-java" options="-parameters" />
+      <module name="my-hutool" options="-parameters" />
       <module name="my-java-basis" options="-parameters" />
       <module name="my-learn" options="-parameters" />
       <module name="my-leetcode" options="-parameters" />

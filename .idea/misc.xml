@@ -16,6 +16,7 @@
         <option value="$PROJECT_DIR$/mybatis-plus/pom.xml" />
         <option value="$PROJECT_DIR$/springdata-jpa/pom.xml" />
         <option value="$PROJECT_DIR$/reptile/pom.xml" />
+        <option value="$PROJECT_DIR$/my-hutool/pom.xml" />
       </list>
     </option>
   </component>
